@@ -532,7 +532,7 @@ box-shadow: 2px 2px 10px #666;        /* Sombra normal */
 
  .inicio .title{
   font-size: 50px;
-  height: 50%;
+  /*height: 50%;*/
  }
 
 #scroll-title{
