@@ -548,14 +548,9 @@ box-shadow: 2px 2px 10px #666;        /* Sombra normal */
   padding-left:0;
  }
  .banner{
- 	height: 70vh;
+ 	height: 80vh;
  }
 
 }
-@media (max-width:667) { 
-	.inicio .title{
-  font-size: 20px;
 
- }
-}
 /*****************************************/
